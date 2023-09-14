@@ -1,0 +1,88 @@
+*{
+	margin:0;
+	box-sizing: border-box;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(251, 245, 245);
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url(
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(231, 47, 123, 0.8)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+
+.navbar-custom .navbar-nav .nav-item>a:hover{
+  color: rgb(248, 134, 134);
+}
+
+.navbar-custom .navbar-nav .nav-item>a{
+  color: rgb(61, 59, 59);
+}
+.nav-item {
+  font-weight: bold;
+  margin-left: 42px;
+}
+.nav-bitem {
+  font-weight: bold;
+  margin-left: 42px;
+}
+
+
+
+@media (max-width: 720px) {
+
+
+
+  .nav-item form{
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+
+
+}
+
+.megamenu {
+  position: static;
+}
+
+.megamenu .dropdown-menu {
+  background: none;
+  border: none;
+  width: 100%;
+}
+
+.product-image{
+  
+  width: 100%;
+  padding: 15px;
+
+}
+.show-cart li {
+  display: flex;
+}
+
+.card-block{
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+.card {
+  margin-bottom: 30px;
+}
+.card-img-top {
+  width: 400px;
+  height: 350px;
+  align-self: center;
+}
+

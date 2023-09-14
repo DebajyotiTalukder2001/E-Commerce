@@ -1,0 +1,290 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #eee;
+}
+.top-left{
+	height: 625px;
+	background-color: #fff;
+	box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+.top-left .logo-area{
+	height: 90px;
+	
+}
+.top-left .logo-area img{
+	display: block;
+	margin: auto;
+	margin-top: -10px;
+}
+.das_icon nav a{
+	display: block;
+	color: #000;
+	text-decoration: none;
+	margin-left: 17px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-family: Roboto;
+	font-size: 13px;
+}
+.das_icon nav a i{
+	color: #B2B2B2;
+	font-size: 16px;
+}
+#drop1 , #drop2 , #drop3{
+	float: right;
+	margin-right: 15px;
+}
+
+#submenu, #submenu2,#submenu3{
+	display: none;
+}
+
+#submenu a{
+	display: block;
+	color: #000;
+	text-decoration: none;
+	margin-left: 17px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-family: Roboto;
+	font-size: 13px;
+	background-color: #CDF0EA; 
+	border-radius: 5px;
+	margin-right: 14px; 
+	border-bottom: 2px solid #fff;
+} 
+#submenu a i{
+	margin-right: 15px;
+	color: #4649FF; 
+	padding-left: 10px;
+}
+#submenu2 a{
+	display: block;
+	color: #000;
+	text-decoration: none;
+	margin-left: 17px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-family: Roboto;
+	font-size: 13px;
+	background-color: #CDF0EA; 
+	border-radius: 5px;
+	margin-right: 14px; 
+	border-bottom: 2px solid #fff;
+} 
+#submenu2 a i{
+	margin-right: 15px;
+	color: #4649FF; 
+	padding-left: 10px;
+}
+#submenu3 a{
+	display: block;
+	color: #000;
+	text-decoration: none;
+	margin-left: 17px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-family: Roboto;
+	font-size: 13px;
+	background-color: #CDF0EA; 
+	border-radius: 5px;
+	margin-right: 14px; 
+	border-bottom: 2px solid #fff;
+} 
+#submenu3 a i{
+	margin-right: 15px;
+	color: #4649FF; 
+	padding-left: 10px;
+}
+.right-top-area{
+	height: 45px;
+	background-color: #fff;
+	 box-shadow: -1px 0px 3px 0px #eee;
+}
+.right-top-area i{
+	color: #DDDDDD;
+	padding-top: 15px;
+}
+.right-top-area input[type="text"]{
+	margin-left: 30px;
+	margin-top: -27px;
+	height: 30px;
+	width: 230px;
+	border:none;
+}
+.top_user_area {
+	margin-top: -37px;
+}
+.top_user_area img{
+	float: right;
+	border-radius: 50px;
+	margin-top: 5px;
+}
+.top_user_area a i{
+	float: right;
+	padding-right: 10px;
+	padding-left: 10px;
+	line-height: -150px!important;
+}
+
+
+
+
+
+@media(max-width: 720px){
+	#navi{
+		height: auto;
+		display: none;
+	}
+	.top-left{
+		height: auto;
+	}
+	#bars{
+		display: block!important;
+		margin-top: -60px!important;
+	}
+	.logo-area{
+		height: 70px!important;
+	}
+	.logo-area img{
+		height: 85px!important;
+	}
+
+
+
+	.lower-area{
+		height: 500px !important;
+	}
+	.body-area{
+		height:1000px !important;
+	}
+	
+	
+}
+
+
+
+#bars{
+	float: right;
+	margin-right: 10px;
+	font-size: 30px;
+	margin-top: -20px;
+	display: none;
+}
+
+.body-area{
+	height: 550px;
+}
+
+
+.lower-area{
+	height: 368px;
+	background-color: #fff;
+}
+
+.noborder td, .noborder th {
+    border: none !important;
+}
+
+td,th{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.bgs{
+	background-color: #bdf4dc;
+	color: #095026;
+	border-radius: 13px;
+	padding: 6px;
+}
+
+.bgd{
+
+	background-color: #f3d6d6;
+	color: #5e1313;
+	border-radius: 13px;
+	padding: 6px;
+
+}
+
+.bgw{
+
+	background-color: #f3f0a9;
+	color: #d8490b;
+	border-radius: 13px;
+	padding: 6px 10px;
+
+}
+
+
+
+
+
+
+
+
+
+.card-area .card{
+	height: 90px;
+	background-color: #fff;
+	border-radius: 7px;
+	border:none;
+}
+.parent{
+	height: 90px;
+	width: 100%;
+}
+.parent .icon{
+	height: 90px;
+	width: 25%;
+	/*background-color: red;*/
+	float: left;
+}
+.parent .icon i{
+	background-color: #F99417;
+	color: #fff;
+	padding: 12px 15px 12px 15px;
+	margin-left: 20px;
+	margin-top: 25px;
+	border-radius: 80px;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgb(255, 128, 0) 0px 2px 16px 0px;
+}
+
+
+
+.parent .total-area{
+	height: 90px;
+	width: 75%;
+	float: left;
+}
+.total-area h6{
+	margin-top: -30px;
+	color: #000;
+}
+.total-area2 h6{
+	margin-top: -17px;
+	color: #000;
+	
+}
+.total-area i{
+	color: #000;
+}
+#icon{
+	background-color: #54B435;
+	color: #fff;
+	padding: 11px 11px 12px 11px;
+	margin-left: 20px;
+	margin-top: 25px;
+	border-radius: 80px;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgb(0, 255, 0) 0px 2px 16px 0px;
+}
+#icon2{
+	background-color: #0008C1;
+	color: #fff;
+	padding: 11px 12px 11px 12px;
+	margin-left: 20px;
+	margin-top: 25px;
+	border-radius: 80px;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgb(0, 0, 204) 0px 2px 16px 0px;
+}
