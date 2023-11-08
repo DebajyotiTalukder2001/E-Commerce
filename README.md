@@ -2,7 +2,10 @@
 THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
 
 <h1>E-Commerce Website</h1>
+
 This is a Complete Responsive E-Commerce Website Built using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP and MySQL.
+
+<strong>** Visual Studio Code IDE and Xampp are required to run the Project.</strong>
 
 * Front-End Part (Hosted on GitHub Pages): https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io
 
