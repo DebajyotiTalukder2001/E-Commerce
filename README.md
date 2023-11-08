@@ -5,7 +5,7 @@ THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official s
 
 This is a Complete Responsive E-Commerce Website Built using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP and MySQL.
 
-<strong>**Requirements to run this project: VSCode IDE and XAMPP </strong>
+<strong>** Requirements to run this project: VSCode IDE and XAMPP </strong>
 
 * Front-End Part (Hosted on GitHub Pages): https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io
 
