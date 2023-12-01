@@ -3,7 +3,18 @@ THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official s
 
 <h1>E-Commerce Website</h1>
 
-This is a Complete Responsive E-Commerce Website Built using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP and MySQL.
+* <strong>Technologies used: </strong> HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL.
+
+* Created a complete responsive E-Commerce website based on Nykaa-Fashion, which is one of the largest E-Commerce platforms for fashion and lifestyle in India.
+
+* Developed both the Front-End and Back-End parts of the website to make it a fully functional Full-Stack E-Commerce website that
+provides customers with a seamless shopping experience.
+
+* Designed and developed a secure and scalable back-end infrastructure using XAMPP and phpMyAdmin.
+
+* The website's features include admin panel, user registration, product listings, shopping cart, checkout, and order management.
+
+* The website is optimized for mobile devices, making it easy for customers to make purchases on the go.
 
 <strong>** Requirements to run this project: VSCode IDE and XAMPP </strong>
 
