@@ -20,6 +20,8 @@ provides customers with a seamless shopping experience.
 
 ![Screenshot (1852)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/74a0c5fe-993d-434b-bba5-1fffd896960b)
 
+* <Strong>Tutorial for XAMPP htdocs location change (If needed): [Click Here](https://stackoverflow.com/questions/18902887/how-to-configuring-a-xampp-web-server-for-different-root-directory)</strong>
+
 <h2>Screenshots:</h2>
 
 
