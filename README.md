@@ -18,6 +18,7 @@ provides customers with a seamless shopping experience.
 
 <strong>** Requirements to run this project: VSCode IDE and XAMPP </strong>
 
+![Screenshot (1852)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/74a0c5fe-993d-434b-bba5-1fffd896960b)
 
 <h2>Screenshots:</h2>
 
