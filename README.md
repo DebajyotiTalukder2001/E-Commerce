@@ -18,55 +18,217 @@ provides customers with a seamless shopping experience.
 
 <strong>** Requirements to run this project: VSCode IDE and XAMPP </strong>
 
-* Front-End Part (Hosted on GitHub Pages): https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io
 
-Screenshots:
-
-![Screenshot (937)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/69de491b-00dc-483e-b8a1-c1a711f2d0fd)
-
-
-![Screenshot (938)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/5a3a7d9c-b36d-4eae-995c-eba342c1b348)
-
-
-![Screenshot (939)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/6c538deb-6362-4f85-bcfb-6d237d1fd824)
-
-
-![Screenshot (940)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/fb9435d1-13ac-4751-a1e2-b5a73b52af25)
-
-
-![Screenshot (941)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/0c8f093b-773c-4b7e-9a2d-3ff4ea227e6a)
-
-
-![Screenshot (942)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/58aef38a-aca3-4de0-aea7-93a3b0b59eb6)
-
-
-![Screenshot (949)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/719b2f35-f64b-4cef-8538-4101abe3b00a)
-
-
-![Screenshot (950)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/da382cfb-3128-4296-a1da-06ec6fcbd4d5)
-
-
-![Screenshot (951)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/d80956a1-978b-4271-96ca-9099e34db3a3)
-
-![Screenshot (943)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/c7b0ac13-21a2-4eca-885c-afc2d59a8f56)
-
-
-![Screenshot (944)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/67c60905-c9dc-4d31-84d9-51f4c9c48534)
-
-![Screenshot (945)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/5b67b300-9895-41b4-8e5f-842cf3efa75a)
-
-![Screenshot (946)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/0d7eecfb-7af9-4b84-af3b-e4b62084694d)
+<h2>Screenshots:</h2>
 
 
 
-![Screenshot (947)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/dc4b04e3-311d-48c6-9d0e-83519df5cdf3)
-
-
-![Screenshot (948)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/2df1ddb3-524e-43b9-a70c-a018bc78061c)
+![Screenshot (1811)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/dda46b41-90e8-4a82-a223-a03076bf08a2)
 
 
 
 
+![Screenshot (1812)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/90557398-c7a3-42e1-815a-1b5d3005e64d)
+
+
+
+![Screenshot (1813)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6e1a53c6-8320-4b46-b688-676fa10a4ea1)
+
+
+
+
+
+![Screenshot (1814)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6cad9784-6117-492b-a10d-1428b1cae1b3)
+
+
+
+
+![Screenshot (1815)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/d2aa5b5d-5ec8-4810-ba88-fee735609c6e)
+
+
+
+![Screenshot (1816)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6795d657-76ad-44d3-bb35-246b05dd5708)
+
+
+
+![Screenshot (1817)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b5ffbfe6-9bca-43d7-bb3a-58bc3655830a)
+
+
+
+
+![Screenshot (1818)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/f5d8124f-6714-44e0-9bca-90fd9c29bd3a)
+
+
+![Screenshot (1819)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b25f68e3-6725-4758-b1d0-1dabf44bf76a)
+
+
+
+![Screenshot (1820)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/0c74ab5b-958d-4517-a0c8-d6357ba9d94e)
+
+
+
+
+![Screenshot (1821)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b32804e3-7694-42dd-9784-141cdc3d8e8e)
+
+
+
+
+
+![Screenshot (1822)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2f0b7456-7dee-44da-a03c-44c99275ca46)
+
+
+
+
+![Screenshot (1823)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/cd27e50a-355d-459b-912b-6eaf9fc4ef23)
+
+
+
+![Screenshot (1824)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/9ec828d0-fa2d-48cb-8c8e-51cd368220cf)
+
+
+
+![Screenshot (1825)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/29c1d07a-bccb-4966-87c7-c26ce37dbe50)
+
+
+
+![Screenshot (1826)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/1ecbc115-4d55-4488-85a1-51a6aad2f862)
+
+
+
+
+![Screenshot (1827)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2f49b7d3-faf4-4c89-a292-dd1acb405234)
+
+
+
+
+![Screenshot (1828)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/f204c769-9244-423d-b076-042dfbe776ae)
+
+
+
+
+![Screenshot (1829)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/c1fc90e0-7580-4193-ba0f-cc6327b09a32)
+
+
+
+
+![Screenshot (1830)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/a90ae3d3-6087-4a66-b6c1-057207b46299)
+
+
+
+
+![Screenshot (1831)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/81e87e63-b8b4-4868-9360-d835aea69a63)
+
+
+
+![Screenshot (1832)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/4318ef31-0bbf-4555-aefc-2beb652e5c42)
+
+
+
+![Screenshot (1833)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/e9c4cc54-23cb-49af-9892-6329ef1d5f2b)
+
+
+
+![Screenshot (1834)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/cad826e9-c7f9-4842-9648-913ee4e22206)
+
+
+
+![Screenshot (1835)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/dfcf8d1e-e80a-4acf-a4a0-99698b6f4991)
+
+
+
+
+![Screenshot (1836)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b8fbc3ed-cff9-4ecf-a4d9-fefe02b79072)
+
+
+![Screenshot (1837)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/85aa4b4b-fb7b-410c-a0de-7d133574ba11)
+
+
+
+![Screenshot (1838)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/37558e9f-34a8-4034-9541-f5eabdd9928d)
+
+
+
+
+![Screenshot (1839)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/ad145548-ebc8-4790-8e7b-54f0afa5803d)
+
+
+
+![Screenshot (1840)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/3530c65d-0098-4cd3-95fc-b46e29f71cef)
+
+
+
+
+![Screenshot (1841)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/23b2941b-0a5c-41f8-81f4-ff15e0b02d0a)
+
+
+
+
+![Screenshot (1842)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/bb64d826-c04f-4443-affa-76efce00c6a0)
+
+
+
+![Screenshot (1843)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/388700df-0475-4ce6-9e4c-0e465d45b383)
+
+
+
+
+![Screenshot (1844)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/39c931c7-4664-4c17-bada-4022f7e1368a)
+
+
+
+
+![Screenshot (1845)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2adf918d-d1a5-480b-8aaf-24532ae4969c)
+
+
+
+
+![Screenshot (1846)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/75904708-bf5e-4400-95a5-166d2350e813)
+
+
+
+
+![Screenshot (1847)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/de18bffa-7d1b-40f9-b3e6-022574c96d8b)
+
+
+
+
+![Screenshot (1848)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/19607e78-737c-4658-b5a0-a85484f96882)
+
+
+
+
+![Screenshot (1849)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/73bba5cf-93a6-4bba-99e6-9094acee97f7)
+
+
+![Screenshot (1794)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/98b00afb-c2a0-4691-91e1-e6b615cec96b)
+
+
+
+
+![Screenshot (1795)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/a09320fe-eaeb-469e-a268-f08a1f3b91ab)
+
+
+
+
+![Screenshot (1796)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/258f19b2-4de9-4c19-a4c8-7616e9279994)
+
+
+
+![Screenshot (1797)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/41c70048-dcd7-45e3-9a2c-bc1934927fd3)
+
+
+
+
+![Screenshot (1798)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/4629e968-aefb-464d-b46a-63cd0d45ff52)
+
+
+
+
+![Screenshot (1799)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/c4e8fc6c-a906-4355-9038-bb00f6c0aff6)
+
+
+
+![Screenshot (1800)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/84209695-9fb6-4e48-bdc0-35faa0018c16)
 
 
 
