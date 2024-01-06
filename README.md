@@ -5,25 +5,22 @@ THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official s
 
 * <strong>Technologies used: </strong> HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL.
 
-* Created a complete responsive E-Commerce website based on Nykaa-Fashion, which is one of the largest E-Commerce platforms for fashion and lifestyle in India.
+* Built a fully responsive e-commerce website inspired by Nykaa-Fashion, India's leading fashion and lifestyle platform. Used HTML, CSS, Bootstrap, JavaScript, and jQuery in the front-end and PHP, MySQL in the back-end.
 
 * Developed both the Front-End and Back-End parts of the website to make it a fully functional Full-Stack E-Commerce website that
 provides customers with a seamless shopping experience.
 
-* Designed and developed a secure and scalable back-end infrastructure using XAMPP and phpMyAdmin.
+* Implemented functionalities like user registration and login, product listings with search and categorization, a secure shopping cart, an integrated payment gateway, and a comprehensive order management system for the admin panel, utilizing XAMPP and phpMyAdmin.
 
-* The website's features include admin panel, user registration, product listings, shopping cart, checkout, and order management.
+* Optimized the website for both mobile and desktop devices, leveraging Bootstrap's responsive framework, which substantially reduced development time, ensuring a seamless and user-friendly shopping experience across all platforms.
 
-* The website is optimized for mobile devices, making it easy for customers to make purchases on the go.
-
-<strong>** Requirements to run this project: VSCode IDE and XAMPP </strong>
+* <strong> Requirements to run this project: VSCode IDE and XAMPP </strong>
+* <Strong> XAMPP Tutorial: [Click Here](https://www.simplilearn.com/tutorials/php-tutorial/php-using-xampp)</strong>
 
 ![Screenshot (1852)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/74a0c5fe-993d-434b-bba5-1fffd896960b)
 
-* <Strong>Tutorial for XAMPP htdocs location change (If needed): [Click Here](https://stackoverflow.com/questions/18902887/how-to-configuring-a-xampp-web-server-for-different-root-directory)</strong>
 
 <h2>Screenshots:</h2>
-
 
 
 ![Screenshot (1811)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/dda46b41-90e8-4a82-a223-a03076bf08a2)
