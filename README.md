@@ -1,5 +1,7 @@
 <h1>Disclaimer</h1>
-THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
+**This page was made as a personal project in connection with an educational exercise.**
+This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. DO NOT enter any personal information (such as logins, passwords or credit card numbers) on this site.
 
 <h1>E-Commerce Website</h1>
 
