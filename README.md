@@ -21,7 +21,7 @@ provides customers with a seamless shopping experience.
 
 ![Screenshot (1852)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/74a0c5fe-993d-434b-bba5-1fffd896960b)
 
-<h2>Documentation</h2>
+<h2>Documentation:</h2>
 
 * Documentation Link: [Click Here](https://drive.google.com/drive/folders/1G84rkftNQmzx-yVJlIvC-iQm8gKhpYDG)
 
